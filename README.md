@@ -141,7 +141,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn streamlit joblib
 ```bash
 python credit_risk_model.py
 ```
-▶️ Run Streamlit App
+##▶️ Run Streamlit App
 streamlit run app.py
 💡 Key Insights
 
@@ -153,7 +153,7 @@ High interest rates → Increased risk
 
 Customers with short credit history → Higher defaults
 
-🌐 Connect With Me
+##🌐 Connect With Me
 
 👨‍💻 Mangesh Nersekar
 Aspiring Data Analyst | Python | Power BI | Machine Learning
