@@ -2,7 +2,7 @@
 ==========================================================
 Credit Risk Prediction System
 ----------------------------------------------------------
-Author  : Your Name
+Author  : Mangesh Nersekar
 Project : Loan Default Prediction using Logistic Regression
 Tools   : Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
 ==========================================================
